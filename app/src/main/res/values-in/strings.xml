@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="user_name">Nama Pengguna</string>
+    <string name="link">Tautan</string>
+    <string name="username_detail">Nama Pengguna</string>
+    <string name="name_detail">Nama</string>
+    <string name="location_detail">Lokasi</string>
+    <string name="search">Pencarian</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="following_tab">Mengikuti</string>
+    <string name="followers_tab">Pengikut</string>
+    <string name="hint">Cari Pengguna Github</string>
+    <string name="change_language_settings">Ganti Pengaturan Bahasa</string>
+</resources>

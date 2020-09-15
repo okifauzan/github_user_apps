@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Submission2</string>
+    <string name="user_name">Username</string>
+    <string name="link">Link</string>
+    <string name="username_detail">Username</string>
+    <string name="name_detail">Name</string>
+    <string name="location_detail">Location</string>
+    <string name="search">Search</string>
+    <string name="following">following</string>
+    <string name="followers">followers</string>
+    <string name="following_tab">following</string>
+    <string name="followers_tab">followers</string>
+    <string name="hint">Search Github User</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
